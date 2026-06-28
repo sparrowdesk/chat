@@ -14,7 +14,7 @@ jobs:
 
       # Version comes from root package.json "packageManager" (do not set version: latest here).
       - name: Set up pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
 
       - name: Set up Node.js
         uses: actions/setup-node@v5
