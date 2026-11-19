@@ -17,7 +17,7 @@
   "homepage": "https://github.com/sparrowdesk/sd-chat-widget-react#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparrowdesk/sd-chat-widget-react.git",
+    "url": "git+https://github.com/surveysparrow-oss/chat.git",
     "directory": "packages/react-chat"
   },
   "bugs": {
